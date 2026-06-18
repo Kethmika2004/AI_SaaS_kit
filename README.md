@@ -1,6 +1,6 @@
 # 🤖 AI SaaS Starter Kit
 
-> Production-ready boilerplate for building and launching AI-powered SaaS products — fast.
+> Production ready boilerplate for building and launching AI powered SaaS products fast.
 
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
